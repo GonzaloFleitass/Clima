@@ -156,7 +156,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C4714A152C4D852B00105440 /* Build configuration list for PBXProject "Climna" */;
+			buildConfigurationList = C4714A152C4D852B00105440 /* Build configuration list for PBXProject "Clima" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -389,7 +389,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C4714A152C4D852B00105440 /* Build configuration list for PBXProject "Climna" */ = {
+		C4714A152C4D852B00105440 /* Build configuration list for PBXProject "Clima" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C4714A282C4D852D00105440 /* Debug */,

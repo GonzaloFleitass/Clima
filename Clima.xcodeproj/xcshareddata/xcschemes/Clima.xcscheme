@@ -18,7 +18,7 @@
                BlueprintIdentifier = "C4714A192C4D852B00105440"
                BuildableName = "Clima.app"
                BlueprintName = "Clima"
-               ReferencedContainer = "container:Climna.xcodeproj">
+               ReferencedContainer = "container:Clima.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,7 +47,7 @@
             BlueprintIdentifier = "C4714A192C4D852B00105440"
             BuildableName = "Clima.app"
             BlueprintName = "Clima"
-            ReferencedContainer = "container:Climna.xcodeproj">
+            ReferencedContainer = "container:Clima.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <EnvironmentVariables>
@@ -71,7 +71,7 @@
             BlueprintIdentifier = "C4714A192C4D852B00105440"
             BuildableName = "Clima.app"
             BlueprintName = "Clima"
-            ReferencedContainer = "container:Climna.xcodeproj">
+            ReferencedContainer = "container:Clima.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
